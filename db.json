@@ -1,0 +1,185 @@
+{
+  "users": [
+    {
+      "id": "3b8f",
+      "img": "C:\\fakepath\\main.jpeg",
+      "firstName": "swra",
+      "lastName": "mandavkar",
+      "email": "swra@gmail.com",
+      "mobile": "9876543256",
+      "age": 26,
+      "country": "USA",
+      "state": "New York",
+      "addressType": "company",
+      "address1": "vasai",
+      "address2": null,
+      "companyAddress1": "mumbai",
+      "companyAddress2": null,
+      "interests": [
+        "play",
+        "tv"
+      ],
+      "newsletter": false
+    },
+    {
+      "id": "4110",
+      "img": "C:\\fakepath\\main.jpeg",
+      "firstName": "seema",
+      "lastName": "bole",
+      "email": "seema@gmail.com",
+      "mobile": "9875643234",
+      "age": 26,
+      "country": "India",
+      "state": "Maharashtra",
+      "addressType": "home",
+      "address1": "vasai",
+      "address2": null,
+      "companyAddress1": null,
+      "companyAddress2": "virar",
+      "interests": [
+        "cdee",
+        "dede"
+      ],
+      "newsletter": false
+    },
+    {
+      "id": "d853",
+      "img": "C:\\fakepath\\main.jpeg",
+      "firstName": "Shweta",
+      "lastName": "Mandavkar",
+      "email": "shwetamandavkar@gmail.com",
+      "mobile": "9345234343",
+      "age": 28,
+      "country": "India",
+      "state": "Maharashtra",
+      "addressType": "home",
+      "address1": "vasai",
+      "address2": "virar",
+      "companyAddress1": null,
+      "companyAddress2": null,
+      "interests": [],
+      "newsletter": false
+    },
+    {
+      "id": "39fc",
+      "img": "C:\\fakepath\\main.jpeg",
+      "firstName": "swra",
+      "lastName": "mandavkar",
+      "email": "swra@gmail.com",
+      "mobile": "9876543256",
+      "age": 28,
+      "country": "USA",
+      "state": "California",
+      "addressType": "company",
+      "address1": "2e",
+      "address2": "mumbai",
+      "companyAddress1": "vasai",
+      "companyAddress2": "mumbai",
+      "interests": [
+        "new"
+      ],
+      "newsletter": false
+    },
+    {
+      "id": "79af",
+      "img": "C:\\fakepath\\main.jpeg",
+      "firstName": "sakshi",
+      "lastName": "savekar",
+      "email": "sakshi@gmail.com",
+      "mobile": "9875634216",
+      "age": 48,
+      "country": "India",
+      "state": "Delhi",
+      "addressType": "company",
+      "address1": "panvel",
+      "address2": "kharghar",
+      "companyAddress1": "parel",
+      "companyAddress2": "mumbai",
+      "interests": [
+        "reading"
+      ],
+      "newsletter": true
+    },
+    {
+      "id": "3f47",
+      "img": "C:\\fakepath\\main.jpeg",
+      "firstName": "nisha",
+      "lastName": "savekar",
+      "email": "nisha@gmail.com",
+      "mobile": "9765445678",
+      "age": 28,
+      "country": "India",
+      "state": "Delhi",
+      "addressType": "home",
+      "address1": "mumbai",
+      "address2": "maharashtra",
+      "companyAddress1": null,
+      "companyAddress2": null,
+      "interests": [
+        "reading",
+        "hockey"
+      ],
+      "newsletter": true
+    },
+    {
+      "id": "4e62",
+      "img": "C:\\fakepath\\main.jpeg",
+      "firstName": "deepali",
+      "lastName": "savekar",
+      "email": "deepali@gmail.com",
+      "mobile": "9567543567",
+      "age": 28,
+      "country": "India",
+      "state": "Delhi",
+      "addressType": "company",
+      "address1": "kolhapur",
+      "address2": "maha",
+      "companyAddress1": "mumbai",
+      "companyAddress2": "mumbai",
+      "interests": [
+        "reading"
+      ],
+      "newsletter": true
+    },
+    {
+      "id": "ee30",
+      "img": "C:\\fakepath\\main.jpeg",
+      "firstName": "ved",
+      "lastName": "more",
+      "email": "ved@gmail.com",
+      "mobile": "9834267545",
+      "age": 25,
+      "country": "UAE",
+      "state": "Dubai",
+      "addressType": "company",
+      "address1": "palghar",
+      "address2": "palghar",
+      "companyAddress1": "mumbai",
+      "companyAddress2": "mumbai",
+      "interests": [
+        "cricket"
+      ],
+      "newsletter": true
+    },
+    {
+      "id": "4df5",
+      "img": "C:\\fakepath\\main.jpeg",
+      "firstName": "ajay",
+      "lastName": "Mandavkar",
+      "email": "ajay@gmail.com",
+      "mobile": "912768965",
+      "age": 40,
+      "country": "India",
+      "state": "Maharashtra",
+      "addressType": "company",
+      "address1": null,
+      "address2": null,
+      "companyAddress1": "andheri",
+      "companyAddress2": "mumbai",
+      "interests": [
+        "reading"
+      ],
+      "newsletter": true
+    }
+  ]
+}
